@@ -20,6 +20,8 @@ And here are some scripts I made for roblox
 
 <a href="https://github.com/aesth1/robloxscriptstuff/blob/main/PrisonGUI.lua">PrisonGUI</a>
 
-Here are some other stuff
+Nintendo Stuff
 
 <a href="https://aesth1.github.io/DarkWii.html">DarkWii - A wii dark theme skin</a>
+
+<a href="https://aesth1.github.io/wiixploit">WiiUExploit - 5.55x firmware exploit</a>
