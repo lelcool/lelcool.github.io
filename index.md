@@ -24,4 +24,4 @@ Nintendo Stuff
 
 <a href="https://aesth1.github.io/DarkWii.html">DarkWii - A wii dark theme skin</a>
 
-<a href="https://aesth1.github.io/wiixploit.html">WiiUExploit - 5.55x firmware exploit</a>
+<a href="https://aesth1.github.io/wiixploit.html">WiiUExploit - 5.55x firmware exploit  REQUIRES PAYLOAD.ELF</a>
